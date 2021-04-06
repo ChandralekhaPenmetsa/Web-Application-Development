@@ -1,0 +1,242 @@
+.head{
+  display:block;
+    background-color:aliceblue;
+    box-shadow: 10px 10px 8px lightblue;
+    height: 210%;
+    width : 60%;
+    margin-left : 250px;
+    border-style: double;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name{
+  margin-left: 30px;
+  position: relative;
+  top : 50px;
+}
+.photo{
+  width : 100px;
+  height : 150px;
+  margin-right: 50px;
+  margin-top : -5%;
+}
+.details{
+  text-align: center;
+  position:relative;
+  font-size: large;
+  padding-left: 25%;
+  top: 3%;
+}
+.objective{
+  margin-left:30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.objectivePara{
+  position : relative;
+  text-align: left;
+  bottom : 50px;
+  right: 110px;
+  font-size: 13px;
+  margin-left : 220px;
+}
+.experience{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+}
+.exp{
+  position:relative;
+  text-align: left;
+  right : 330px;
+  top : 50px;
+}
+.salesAss{
+  position:relative;
+  margin-left:40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline;
+  float: right;
+  right : 200px;
+  
+
+}
+.sales{
+  position:relative;
+  text-align: left;
+  top : 100px;
+  right: 210px;
+  font-size: 13px;
+  margin-left : 220px;
+
+}
+.border{
+  position: relative;
+  border-style: dotted;
+  width:95%;
+  top : 9%;
+}
+.education{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 70px;
+}
+.edu{
+  position:relative;
+  text-align: left;
+  right : 330px;
+  top : 120px;
+}
+.fashion{
+  position:relative;
+  margin-left:40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: inline;
+  float: right;
+  right : 80px;
+  top :140px;
+
+}
+.fashion2{
+  position:relative;
+  text-align: left;
+  top : 250px;
+  right: 150px;
+  font-size: 13px;
+  margin-left : 220px;
+
+}
+.border2{
+  position: relative;
+  border-style: dotted;
+  width:25%;
+  top : 16.8%;
+  right : 55px;
+}
+.skills{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 95px;
+}
+.skill{
+  position:relative;
+  text-align: left;
+  right : 325px;
+  top : 150px;
+}
+.border3{
+  position: relative;
+  border-style: dotted;
+  width:30%;
+  top : 16.1%;
+  left : 200px;
+}
+.languages{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 95px;
+  right : 65px;
+}
+.language{
+  position:relative;
+  text-align: left;
+  right : 440px;
+  top : 150px;
+}
+.border4{
+  position: relative;
+  border-style: dotted;
+  width:27%;
+  top : 15.3%;
+  left : 460px;
+}
+.references{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 59px;
+  left: 250px
+}
+.reference{
+  position:relative;
+  text-align: left;
+  right : 90px;
+  top : 110px;
+}
+.border5{
+  position: relative;
+  border-style: dotted;
+  width:95%;
+  top : 13%;
+}
+.projects{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 90px;
+  right: 0px
+}
+.project{
+  position:relative;
+  text-align: left;
+  right : 25px;
+  top : 100px;
+}
+.border6{
+  position: relative;
+  border-style: dotted;
+  width:95%;
+  top : 14%;
+}
+.achievements{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 15%;
+  right: 0px
+}
+.achievement{
+  position:relative;
+  text-align: left;
+  right : 80px;
+  top : 13px;
+}
+.border7{
+  position: relative;
+  border-style: dotted;
+  width:95%;
+  top : 16%;
+}
+.courses{
+  position:relative;
+  text-align : left;
+  margin-left: 15px;
+  display: inline;
+  float : left;
+  top : 16.5%;
+  right: 0px
+}
+.course{
+  position:relative;
+  text-align: left;
+  left: 470px;
+  top : -45px;
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

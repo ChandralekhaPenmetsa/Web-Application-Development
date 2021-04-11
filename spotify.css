@@ -1,0 +1,265 @@
+.block{
+    background-color: white;
+}
+.logo{
+    position: relative;
+    width: 15%;
+    top : 20px;
+    left : 500px;
+}
+.head{
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    top : 40px;
+    text-align: center;
+}
+.button{
+    position: relative;
+    border-radius: 50px;
+    border-color:rgb(0, 128, 255) ;
+    width:25%;
+    height : 10%;
+    background-color: rgb(0, 128, 255);
+    color: white;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    top:25%;
+    left : 460px;
+}
+.text1{
+    position :relative;
+    bottom : 3px;
+    text-align: center;
+    
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.text2{
+    position: relative;
+    text-align: center;
+    bottom:7px;
+    left : 460px;
+    font-size: 20px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+
+}
+.text-box{
+    position : relative;
+    top : 40px;
+    width : 50%; 
+    left:20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 2px solid grey;
+    font-size: 15px;
+    margin-left: 15px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+.text-box2{
+     position : relative;
+     top :60px;
+     width : 50%; 
+    left:330px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 2px solid grey;
+    margin-left: 20px;
+    margin-left: 15px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+.text-box3{
+    position : relative;
+    top : 80px;
+    width : 50%; 
+   left:330px;
+   box-sizing: border-box;
+   border-radius: 4px;
+   border: 2px solid grey;
+   font-size: 15px;
+   margin-left: 15px;
+   font-family: spotify-circular, Helvetica, Arial, sans-serif;
+   padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.text-box4{
+    position : relative;
+    top: 100px;
+    width : 50%; 
+   left:330px;
+   box-sizing: border-box;
+   border-radius: 4px;
+   border: 2px solid grey;
+   font-size: 15px; 
+   margin-left: 15px;
+   font-family: spotify-circular, Helvetica, Arial, sans-serif;
+   padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.dropdown{
+    position : relative;
+    font-size: 15px;
+    color: grey;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    width : 15%;
+    height : 4%;
+    top : 125px;
+    left : 560px;
+}
+.text3{
+    position:relative;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    color: grey;
+    top : 115px;
+    left : 345px;
+
+}
+.text-box5{
+    position : relative;
+    width:15%;
+    font-size: 15px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    top : 125px;
+    left : 590px;
+}
+.text-box6{
+    position : relative;
+    width:15%;
+    font-size: 15px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    top : 125px;
+    left : -35px;
+}
+.radio{
+    position : relative;
+    width : 25px;
+    height : 15px;
+    top : 150px;
+    left : 350px;
+}
+.radio1{
+    position : relative;
+    width : 25px;
+    height : 15px;
+    top : 150px;
+    left : 500px;
+}
+.radio2{
+    position : relative;
+    width : 25px;
+    height : 15px;
+    top : 150px;
+    left : 600px;
+}
+.text4{
+    position : relative;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    color: grey;
+    font-size : 15px;
+    top : 150px;
+    left : 350px;
+}
+
+.text5{
+    position : relative;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    color: grey;
+    font-size: 15px;
+    top : 170px;
+    left : 320px;
+
+
+}
+.checkbox{
+    position : relative;
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;;
+    top : 170px;
+    left : 320px;
+
+}
+.div{
+    position : relative;
+    border :1px solid black;
+    width : 20%;
+    top : 200px;
+    height : 15%;
+    left : 350px;
+}
+.text6 {
+    position: relative;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size : 15px;
+    left : 350px;
+    top : 200px;
+}
+.text7{
+    position : relative;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size : 15px;
+    left : 350px;
+    top : 200px;
+}
+
+.img{
+    width: 20%;
+    margin-left :40px;
+    position : relative;
+    top : 10px;
+}
+.text9{
+    margin-left: 50px;
+}
+.textbox7{
+    margin-left:20px;
+
+}
+.checkbox2{
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+.text8{
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+} 
+.button2{
+    position: relative;
+    border-radius: 50px;
+    width:10%;
+    height : 10%;
+    background-color: rgb(0, 128, 255);
+    color: white;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    top:200px;
+    left : 600px;
+}
+.privacy{
+    position : relative;
+    top : -50px;
+    left : 180px;
+}
+.alert{
+    background-color: rgb(0, 128, 255);
+    padding : 40px;
+}
+.closebtn{
+    margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
